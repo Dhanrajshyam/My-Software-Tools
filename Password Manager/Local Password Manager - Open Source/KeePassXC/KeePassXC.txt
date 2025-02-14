@@ -1,0 +1,3 @@
+Url: https://keepassxc.org/
+Password: Mangathada@2025
+Keyfile located in this directory.
